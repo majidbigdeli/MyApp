@@ -1,0 +1,3 @@
+[submodule "MySubModuleApp"]
+	path = MySubModuleApp
+	url = https://github.com/majidbigdeli/MySubModuleApp.git
